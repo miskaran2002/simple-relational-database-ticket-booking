@@ -64,7 +64,7 @@ Relationships:
 * Each Booking belongs to exactly one User and one Match.
 
 ERD Link:
-[Paste Your Public ERD Link Here]
+[https://drive.google.com/file/d/1Bgzt7tn7tH-S7b3cr1axl39woNg7OLBP/view?usp=sharing]
 
 ---
 
